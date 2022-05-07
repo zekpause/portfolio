@@ -16,3 +16,18 @@
 @import "./sass/sections/contact";
 @import "./sass/sections/hero";
 @import "./sass/sections/projects";
+
+.about__text {
+    font-size: 1.4rem;
+    color: #f2e1d3;
+}
+
+.u-margin-bottom-small {
+    margin-bottom: 2rem;
+}
+
+body {
+    font-family: "Nunito", sans-serif;
+    font-weight: 300;
+    line-height: 1.6;
+}
